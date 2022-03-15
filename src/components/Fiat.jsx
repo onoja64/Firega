@@ -9,11 +9,12 @@ function Fiat() {
         height="595px"
         width="440px"
         title="Onramper widget"
-        frameborder="0"
+        frameBorder="0"
         allow="accelerometer;
   autoplay; camera; gyroscope; payment"
         style="box-shadow: 1px 1px 1px 1px
   rgba(0,0,0,0.1);"
+        rel="noreferrer"
       ></Iframe>
     </div>
   );
